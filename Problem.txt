@@ -1,0 +1,20 @@
+suppose you have the following shape in a file
+ 
+| |
+###O
+| |  
+ 
+ 
+and you have a landscape in the following shape
+ 
+                                       
+    | |                                
+    ###O                              
+    | |           | |                  
+                  ###O                
+                  | |              | |
+                                   ###O
+                                   | |
+ 
+Can you count how many shapes are there ?
+consider different landscape shapes like rows, diagonal, column landscape
